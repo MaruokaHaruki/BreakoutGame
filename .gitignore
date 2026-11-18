@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Generated files in the nested Unreal Engine project
+/ND1_01_BreakoutGame 5.8/Binaries/
+/ND1_01_BreakoutGame 5.8/DerivedDataCache/
+/ND1_01_BreakoutGame 5.8/Intermediate/
+/ND1_01_BreakoutGame 5.8/Saved/
